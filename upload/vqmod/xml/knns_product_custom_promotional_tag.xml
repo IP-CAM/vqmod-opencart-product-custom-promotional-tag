@@ -123,7 +123,7 @@ $_['help_promotional_tag']             = 'Χρησιμοποιήστε 255 χα�
 			<add><![CDATA[
               <?php // kanenas: knns_product_custom_promotional_tag.xml (start) << ?>
               <?php if ($product['promotional_tag']) { ?>
-              <div class="gp_promotional_tag"><?php echo $product['promotional_tag']; ?></div>
+                <div class="gp_promotional_tag"><?php echo $product['promotional_tag']; ?></div>
               <?php } ?>
               <?php // kanenas: knns_product_custom_promotional_tag.xml (end) << ?>
 			]]></add>
